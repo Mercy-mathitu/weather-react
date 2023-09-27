@@ -10,6 +10,7 @@ function App() {
       <div className="App">
       <h1>Weather Search Engine</h1>
       <Search />
+      <a href='https://github.com/Mercy-mathitu/weather-react' target='blank'>Weather-react Github</a>
     </div>
     </>
   )
